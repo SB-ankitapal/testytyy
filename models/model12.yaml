@@ -1,0 +1,9 @@
+title: model12
+x-stoplight:
+  id: um0546kbr2jcw
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: owjturetke810
