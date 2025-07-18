@@ -1,5 +1,6 @@
 ---
 stoplight-id: vwg8xapzw23u9
+internal: true
 ---
 
 # article
